@@ -1,0 +1,16 @@
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\bin\Debug\net5.0\Task2.exe
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\bin\Debug\net5.0\Task2.deps.json
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\bin\Debug\net5.0\Task2.dll
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\bin\Debug\net5.0\ref\Task2.dll
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\bin\Debug\net5.0\Task2.pdb
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\Task2.csprojAssemblyReference.cache
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\Task2.dll
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\ref\Task2.dll
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\Task2.pdb
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework1\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\Task3.csprojAssemblyReference.cache
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\Task3.AssemblyInfoInputs.cache
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\Task3.AssemblyInfo.cs
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\Task3.csproj.CoreCompileInputs.cache
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\bin\Debug\net5.0\Task3.exe
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\bin\Debug\net5.0\Task3.deps.json
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\bin\Debug\net5.0\Task3.runtimeconfig.json
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\bin\Debug\net5.0\Task3.runtimeconfig.dev.json
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\bin\Debug\net5.0\Task3.dll
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\bin\Debug\net5.0\ref\Task3.dll
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\bin\Debug\net5.0\Task3.pdb
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\Task3.dll
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\ref\Task3.dll
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\Task3.pdb
+D:\study\C#\ISsoft\ДЗ\Kovalenko_Homework4\Task3\obj\Debug\net5.0\Task3.genruntimeconfig.cache
