@@ -11,7 +11,6 @@ namespace Task1
         public int Height { get; private set; }
         public int Size { get; private set; }
 
-
         private int _version;
         private Dictionary<int, int> _matrix = new Dictionary<int, int>();
 
@@ -25,6 +24,7 @@ namespace Task1
             Width = n;
             Size = m * n;
         }
+
         public int this[int row, int col]
         {
             get {
