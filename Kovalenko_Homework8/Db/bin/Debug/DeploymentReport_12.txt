@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Employee] (Table)
+       [dbo].[Training] (Table)
+       [dbo].[TrainingEmployee] (Table)
+       [dbo].[TrainingEmployee].[IX_dbo_TrainingsEmployees_TrainingId] (Index)
+       [dbo].[TrainingEmployee].[IX_dbo_TrainingsEmployees_EmployeeId] (Index)
+       [dbo].[Vacation] (Table)
+       [dbo].[Vacation].[IX_dbo_Vacation_EmployeeId] (Index)
+       [dbo].[FK_dbo_BookAuthor_dbo_Book] (Foreign Key)
+       [dbo].[FK_dbo_BookAuthor_dbo_Author] (Foreign Key)
+       [dbo].[FK_dbo_Vacation_dbo_Employee] (Foreign Key)
+       [dbo].[DC_dbo_Training_StartDate_Check] (Check Constraint)
+       [dbo].[DC_dbo_Training_EndDate_Check] (Check Constraint)
+       [dbo].[DC_dbo_Vacation_StartDate_Check] (Check Constraint)
+       [dbo].[DC_dbo_Vacation_EndDate_Check] (Check Constraint)
+
+** Supporting actions

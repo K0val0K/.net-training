@@ -1,0 +1,10 @@
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\bin\Debug\Db.dacpac
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\bin\Debug\Db.dll
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\bin\Debug\Db.pdb
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\obj\Debug\Db.sqlprojAssemblyReference.cache
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\obj\Debug\Db.dll
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\obj\Debug\Db.pdb
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\obj\Debug\Model.xml
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\obj\Debug\refactor.xml
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\obj\Debug\postdeploy.sql
+D:\study\C#\ISsoft\ДЗ\My solutions\Kovalenko_Homework8\Db\obj\Debug\predeploy.sql

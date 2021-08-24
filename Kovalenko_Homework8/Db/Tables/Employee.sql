@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Employee]
+(
+	[Id] UNIQUEIDENTIFIER CONSTRAINT [PK_dbo_Employee] PRIMARY KEY, 
+    [Email] NVARCHAR(128) NOT NULL CONSTRAINT [UK_dbo_Employee_Email] UNIQUE, 
+    [Name] NVARCHAR(128) NOT NULL, 
+    [Surname] NVARCHAR(128) NOT NULL
+);
